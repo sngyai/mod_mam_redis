@@ -1,7 +1,7 @@
 # ejabberd-mod-mam
 
 **ejabberd-mod-mam** is a module for the ejabberd XMPP server that implements
-the "Message Archive Management" functionality [XEP-0313][xep-0313] and "Result Set Management" [XEP-0059][xep-0059]using a
+the "Message Archive Management" functionality [XEP-0313][xep-0313] and "Result Set Management" [XEP-0059][xep-0059] using a
 [Redis][redis] backend.
 
 ## Install
@@ -31,5 +31,5 @@ modules:
 
 
 [xep-0313]: http://xmpp.org/extensions/xep-0313.html
-[xep-0059]: http://xmpp.org/extensions/xep-0313.html
+[xep-0059]: http://xmpp.org/extensions/xep-0059.html
 [redis]: http://redis.io
